@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="JobThread"/>
+    <fullyQualifiedTypeName name="JobRunnable"/>
+    <fullyQualifiedTypeName name="Producer"/>
+    <fullyQualifiedTypeName name="Cuby"/>
+    <fullyQualifiedTypeName name="Consumer"/>
+    <fullyQualifiedTypeName name="MegaSena"/>
+    <fullyQualifiedTypeName name="RedGame"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicBoolean"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+    <fullyQualifiedTypeName name="RandomA"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Printer"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="PrinterThread"/>
+</qualifiedTypeNameHistroy>

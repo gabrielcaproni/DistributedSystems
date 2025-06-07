@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy Project &apos;RandomNumbers&apos;" description="Copy Project &apos;RandomNumbers&apos;" destination="C:/Users/Gabriel Pegoraro/Desktop/Sistemas Distribuidos/eclipse-workspace" element="/RandomNumbers" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="RandomNumbersSem" stamp="1747831247663"/>&#x0A;<refactoring comment="Copy Project &apos;PCNoSync&apos;" description="Copy Project &apos;PCNoSync&apos;" destination="C:/Users/Gabriel Pegoraro/Desktop/Sistemas Distribuidos/eclipse-workspace" element="/PCNoSync" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="PCNoSync2" stamp="1747831855989"/>
+</session>

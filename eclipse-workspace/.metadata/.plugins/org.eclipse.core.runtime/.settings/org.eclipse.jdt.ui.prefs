@@ -1,0 +1,13 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="JobThread"><rhs name\="JobThread"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="JobRunnable"/><rhs name\="Producer"/><rhs name\="RedGame"/><rhs name\="PrinterThread"/></lhs><lhs name\="JobRunnable"><rhs name\="JobRunnable"/></lhs><lhs name\="java.lang.Thread"><rhs name\="Producer"/><rhs name\="RedGame"/><rhs name\="PrinterThread"/></lhs><lhs name\="Producer"><rhs name\="Producer"/></lhs><lhs name\="Cuby"><rhs name\="Cuby"/></lhs><lhs name\="MegaSena"><rhs name\="MegaSena"/></lhs><lhs name\="RedGame"><rhs name\="RedGame"/></lhs><lhs name\="java.util.concurrent.locks.Lock"><rhs name\="java.util.concurrent.locks.ReentrantLock"/></lhs><lhs name\="java.util.concurrent.locks.ReentrantLock"><rhs name\="java.util.concurrent.locks.ReentrantLock"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.InterruptedException"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.util.concurrent.Semaphore"><rhs name\="java.util.concurrent.Semaphore"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.String"/></lhs><lhs name\="Printer"><rhs name\="Printer"/></lhs><lhs name\="PrinterThread"><rhs name\="PrinterThread"/></lhs></history>
+content_assist_number_of_computers=20
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
